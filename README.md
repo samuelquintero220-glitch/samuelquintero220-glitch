@@ -101,14 +101,14 @@ Estudiante y Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el S
 
 ## 🧠 Habilidades Blandas
 
-- Comunicación asertiva, Liderazgo, Trabajo en equipo[cite: 1.2].
-- Aprendizaje rápido, Disciplina, Puntualidad y capacidad de adaptación[cite: 1.2].
+- Comunicación asertiva, Liderazgo, Trabajo en equipo.
+- Aprendizaje rápido, Disciplina, Puntualidad y capacidad de adaptación.
 
 ---
 
 ## 📚 Cursos, Certificaciones y Formación Continua
-- **Técnico en Desarrollo de Software** — *SENA (2025)*[cite: 1.2]
-- **Formación en Metodologías de Desarrollo y Ciclo de Vida del Software** — *SENA (2026)*
+- **Técnico en Desarrollo de Software** — *SENA (2025)*
+- **tecnologo en analisis y desarrollo de software** — *SENA (2026)*
 
 ---
 
