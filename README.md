@@ -24,7 +24,7 @@
 - 📱 **Teléfono:** +57 304 359 1766[cite: 1.2]
 - 📧 **Correo Electrónico:** [samuelquintero220@gmail.com](mailto:samuelquintero220@gmail.com)[cite: 1.2]
 - 📍 **Ubicación:** Medellín, Antioquia, Colombia[cite: 1.2]
-- 💼 **LinkedIn:** [linkedin.com/in/samuel-quintero](https://linkedin.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samuel-quintero-b057ab42b/
 - 🌐 **Portafolio / GitHub:** [github.com/samuelquintero220-glitch](https://github.com/samuelquintero220-glitch)
 
 ---
