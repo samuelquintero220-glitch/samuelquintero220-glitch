@@ -18,47 +18,36 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelquintero220-glitch&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
 
----
-
-## 📞 Información de Contacto
-- 📱 **Teléfono:** +57 304 359 1766[cite: 1.2]
-- 📧 **Correo Electrónico:** [samuelquintero220@gmail.com](mailto:samuelquintero220@gmail.com)[cite: 1.2]
-- 📍 **Ubicación:** Medellín, Antioquia, Colombia[cite: 1.2]
-- 💼 **LinkedIn:** https://www.linkedin.com/in/samuel-quintero-b057ab42b/
-- 🌐 **Portafolio / GitHub:** [github.com/samuelquintero220-glitch](https://github.com/samuelquintero220-glitch)
-
----
-
 ## 💡 Perfil Profesional
-Estudiante y Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA[cite: 1.2], con formación técnica previa en Desarrollo de Software[cite: 1.2]. Apasionado por la creación de soluciones informáticas, el desarrollo web frontend y la integración de herramientas modernas de Inteligencia Artificial aplicadas al software[cite: 1.2]. Cuento con capacidad de adaptación, responsabilidad, disciplina, disposición para el aprendizaje continuo y trabajo colaborativo bajo enfoques y metodologías ágiles[cite: 1.2].
+Estudiante y Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el SENA, con formación técnica previa en Desarrollo de Software. Apasionado por la creación de soluciones informáticas, el desarrollo web frontend y la integración de herramientas modernas de Inteligencia Artificial aplicadas al software. Cuento con capacidad de adaptación, responsabilidad, disciplina, disposición para el aprendizaje continuo y trabajo colaborativo bajo enfoques y metodologías ágiles.
 
 ---
 
 ## 💼 Experiencia Laboral & Proyectos
 
-### 🏢 **Aprendiz SENA — Análisis y Desarrollo de Software (ADSO)** — Servicio Nacional de Aprendizaje (SENA)[cite: 1.2]
-*2025 – Presente* | *Medellín, Colombia*[cite: 1.2]
-- Formación práctica aplicada en análisis, diseño, desarrollo e ingeniería de requisitos de soluciones informáticas.[cite: 1.2]
-- Implementación de maquetación de interfaces responsivas y buenas prácticas de desarrollo web.[cite: 1.2]
-- Aplicación de metodologías de trabajo colaborativo, control de versiones y resolución de problemas.[cite: 1.2]
+### 🏢 **Aprendiz SENA — Análisis y Desarrollo de Software (ADSO)** — Servicio Nacional de Aprendizaje (SENA)
+*2025 – Presente* | *Medellín, Colombia*
+- Formación práctica aplicada en análisis, diseño, desarrollo e ingeniería de requisitos de soluciones informáticas.
+- Implementación de maquetación de interfaces responsivas y buenas prácticas de desarrollo web.
+- Aplicación de metodologías de trabajo colaborativo, control de versiones y resolución de problemas.
 
-### 🚀 **TuryMedellín — Plataforma Web de Turismo** *(Proyecto Académico)*[cite: 1.2]
-- Desarrollo de plataforma web informativa sobre destinos turísticos de Medellín y sus alrededores[cite: 1.2].
-- Incluye catálogo de lugares, galería de imágenes, sección de contacto y maquetación adaptable a dispositivos móviles[cite: 1.2].
-- **Tecnologías:** HTML5, CSS3, JavaScript, Bootstrap[cite: 1.2].
+### 🚀 **TuryMedellín — Plataforma Web de Turismo** *(Proyecto Académico)*
+- Desarrollo de plataforma web informativa sobre destinos turísticos de Medellín y sus alrededores.
+- Incluye catálogo de lugares, galería de imágenes, sección de contacto y maquetación adaptable a dispositivos móviles.
+- **Tecnologías:** HTML5, CSS3, JavaScript, Bootstrap.
 
 ---
 
 ## 🎓 Formación Académica
 
 ### 🎓 **Tecnólogo en Análisis y Desarrollo de Software (ADSO)**
-*Servicio Nacional de Aprendizaje (SENA)* | *2026 – Presente*[cite: 1.2]
+*Servicio Nacional de Aprendizaje (SENA)* | *2026 – Presente*
 
 ### 📜 **Técnico en Desarrollo de Software**
-*Servicio Nacional de Aprendizaje (SENA)* | *2025*[cite: 1.2]
+*Servicio Nacional de Aprendizaje (SENA)* | *2025*
 
 ### 🏫 **Bachiller Académico**
-*I.E. José María Bravo Márquez* | *2019 – 2025*[cite: 1.2]
+*I.E. José María Bravo Márquez* | *2019 – 2025*
 
 ---
 
@@ -111,6 +100,13 @@ Estudiante y Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el S
 - **tecnologo en analisis y desarrollo de software** — *SENA (2026)*
 
 ---
+## 📞 Información de Contacto
+- 📱 **Teléfono:** +57 304 359 1766
+- 📧 **Correo Electrónico:** [samuelquintero220@gmail.com](mailto:samuelquintero220@gmail.com)[cite: 1.2]
+- 📍 **Ubicación:** Medellín, Antioquia, Colombia
+- 💼 **LinkedIn:** https://www.linkedin.com/in/samuel-quintero-b057ab42b/
+- 🌐 **Portafolio / GitHub:** [github.com/samuelquintero220-glitch](https://github.com/samuelquintero220-glitch)
+
 
 <p align="center">
   <i>"Desarrollando soluciones web funcionales, modernas e interactivas."</i>
