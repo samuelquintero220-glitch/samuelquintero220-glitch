@@ -1,10 +1,5 @@
 # 👋 Hola, soy Samuel Quintero Restrepo
 ### 💻 Desarrollador de Software | Aprendiz SENA (ADSO) & Frontend Developer
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samuelquintero220-glitch&style=for-the-badge&color=blueviolet" alt="Visitas al perfil"/>
-</p>
-
 ---
 
 ## 📊 Estadísticas de GitHub
